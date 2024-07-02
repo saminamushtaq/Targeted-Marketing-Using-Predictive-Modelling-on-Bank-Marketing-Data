@@ -15,24 +15,6 @@ The repository is organized as follows:
 - **models/**: Serialized machine learning models (in `.pkl` format) that have been trained and evaluated.
 - **README.md**: This file, providing an overview of the project and guidance for users.
 
-## Getting Started
-
-To get started with this project, follow the steps below:
-
-### Prerequisites
-
-Ensure you have the following software installed on your system:
-
-- Python 3.x
-- Jupyter Notebook
-- Git
-
-You can install the required Python packages using the `requirements.txt` file provided in the repository:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Data
 
 1. **Download the Dataset**: Download the Bank Marketing dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
