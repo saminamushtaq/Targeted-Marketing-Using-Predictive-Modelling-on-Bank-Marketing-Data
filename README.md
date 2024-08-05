@@ -18,7 +18,7 @@ The repository is organized as follows:
 ### Data
 
 1. **Download the Dataset**: Download the Bank Marketing dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing).
-2. **Place the Dataset**: Place the downloaded dataset (`bank-full.csv`) into the `data/` directory.
+2. **Place the Dataset**: Place the downloaded dataset (`bank-additional-full.csv`) into the `data/` directory.
 
 ## Project Workflow
 
